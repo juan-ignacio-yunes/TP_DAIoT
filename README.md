@@ -8,5 +8,4 @@ El proyecto contiene 3 carpetas:
 
 En cada una de ellas hay un archivo readme que explica lo de se debería hacer para ejecutar el código.
 
-En [este enlace](https://docs.google.com/presentation/d/1BWeJ__F21GNpa_pZROABIlCcSZXqp_1lXe5mqxguRhI/edit?usp=sharing) se encuetra la presentación de Google slides.
-
+En la carpeta "presentación" se puede encuentran la grabación y un archivo .pptx mostrado esta.
